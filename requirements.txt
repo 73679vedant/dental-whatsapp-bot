@@ -2,4 +2,4 @@ fastapi
 twilio
 python-dotenv
 requests
-gunicorn
+gunicorns
