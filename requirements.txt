@@ -1,3 +1,5 @@
 fastapi
 twilio
-python-multipart
+python-dotenv
+requests
+gunicorn
