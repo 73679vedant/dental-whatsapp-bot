@@ -1,5 +1,6 @@
 fastapi
+unicorn[standard]
+gunicorn
 twilio
 python-dotenv
 requests
-gunicorns
